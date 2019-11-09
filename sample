@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>How to train your dragon-html</title>
+      <meta charset="utf-8">
+  </head>
+  <body>
+    <h1><a href="https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(film)" target="_blank" title="Wikipedia">How to train your dragon</a></h1>
+      <ul>
+        <li>A note from Hiccup</li>
+      </ul>
+      <ol>
+        <li><a href="1.html">First catch your dragon</a></li>
+        <li><a href="2.html">Inside the dragon nursey</a></li>
+        <li><a href="3.html">Heroes or eciles</a></li>
+        <li><a href="4.html">How to train your dragon</a></li>
+        <li><a href="5.html">A chat with Old Wrinkly</a></li>
+        <li><a href="6.html">Meanwhile, deep in the ocean</a></li>
+      </ol>
+    <br><h3>1. Fisrt catch your dragon</h3>
+      <p>Long ago, on the wild and windy isle of Berk, <strong>a smallish Viking</strong> with a longish name <u>stood</u> up to his ankles in snow.</p>
+      <img src="Berk.jpg" width="100%">
+      <p><strong>Hiccup Horrendous Haddock the Third,</strong> the Hope and Heir to the Tribe of the Hairy Hooligans, <u>had been feeling</u> slightly <u>sick</u> ever since he woke up that morning.</p>
+  </body>
+</html>
